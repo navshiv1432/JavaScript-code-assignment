@@ -3,6 +3,7 @@ let list2 = ['Adwait', 'Laxman', 'Amit', 'Adnan', 'Nitin', 'Gaurav'];
 
 let uniqueList1 = [], uniqueList2 = [], commonUsers = [];
 
+
 // a. Get a unique set of users from List1 which are not in List2
 for (let i = 0; i < list1.length; i++) {
     let found = false;
